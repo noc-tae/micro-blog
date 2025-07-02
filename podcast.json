@@ -1,0 +1,20 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "nicolai’s mb ",
+	"icon": "https://avatars.micro.blog/avatars/2024/32/59601.jpg",
+	"home_page_url": "https://micro.nicolai.ink/",
+	"feed_url": "https://micro.nicolai.ink/podcast.json",
+	"_podcast": {
+		"about": "https://jsonfeed.org/podcasting",
+		"image": "https://micro.blog/noctae/podcast.png",
+		"explicit": false,
+		"categories": [
+			{
+				"category": "Society \u0026 Culture",
+				"subcategory": "Personal Journals"
+			}
+		]
+	},
+	"items": [
+	]
+}
