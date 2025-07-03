@@ -2,8 +2,8 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Categories on nicolai’s mb ",
   "icon": "https://avatars.micro.blog/avatars/2024/32/59601.jpg",
-  "home_page_url": "https://micro.nicolai.ink/",
-  "feed_url": "https://micro.nicolai.ink/feed.json",
+  "home_page_url": "https://archive.nicolai.ink/",
+  "feed_url": "https://archive.nicolai.ink/feed.json",
   "items": [
   ]
 }

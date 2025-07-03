@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
-		<atom:link href="https://micro.nicolai.ink/podcast.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://archive.nicolai.ink/podcast.xml" rel="self" type="application/rss+xml" />
 		<title>nicolai’s mb </title>
-		<link>https://micro.nicolai.ink/</link>
+		<link>https://archive.nicolai.ink/</link>
 		<description>Hey hey 👋👋  Welcome to my micro.blog aka something unhinged I’m trying to combine my bad posting and reading updates</description>
 		<copyright>Copyright 2025 nicolai</copyright>
 		<itunes:image href="https://micro.blog/noctae/podcast.png" />
